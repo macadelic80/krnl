@@ -1,0 +1,1 @@
+cargo run create bootimage + run qemu to try it
